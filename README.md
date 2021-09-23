@@ -23,19 +23,20 @@ Ponderación sitios de ocio = 0.15
 9.	Teniendo un dataframe con todas las distancias a nuestra localización inicial (máximo 1km) y el valor de cada sitio en base a su ponderación hemos calculado la suma de todos los valores y nos hemos quedado con la localización que tuviese mayor valor. 
 
 La localización con mayor valor ha sido la localización de Londres con una Latitud de Londres Long:-0.0870022262169723, Lat: 51.520624794291884
+
 CONCLUSION
 La mejor localización para empezar una empresa entre las tres localizaciones escogidas sería Londres ya que cumple con todos nuestros requisitos y además es el que tiene los requisitos mas cerca. 
 
 LIBRERIAS
-Pymongo 
-Json
-Pandas
-Geopandas
-Dotenv 
-Os
-Requests
-Folium
-Numpy 
-Pyjsonviewer
-Shapely 
+ Pymongo,
+ Json,
+ Pandas,
+ Geopandas,
+ Dotenv, 
+ Os,
+ Requests,
+ Folium,
+ Numpy,
+ Pyjsonviewer,
+ Shapely. 
 
