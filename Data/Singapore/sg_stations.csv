@@ -1,5 +1,5 @@
 ,Name,Classification,Type,Country,Adress,Latitude,Longitude,location
-0,Raffles Place MRT Interchange (EW14/NS26),Travelling Stations,Metro Station,SG,5 Raffles Pl.,1.2839033329404972,103.85131573472614,"{'type': 'Point', 'coordinates': (1.2839033329404972, 103.85131573472614)}"
+0,Raffles Place MRT Interchange (EW14/NS26),Travelling Stations,Metro Station,SG,5 Raffles Pl.,1.2842710026825765,103.85120816210832,"{'type': 'Point', 'coordinates': (1.2842710026825765, 103.85120816210832)}"
 1,Telok Ayer MRT Station (DT18),Travelling Stations,Metro Station,SG,7 Cross Street,1.282401201578115,103.84875613369451,"{'type': 'Point', 'coordinates': (1.282401201578115, 103.84875613369451)}"
 2,Clarke Quay MRT Station (NE5),Travelling Stations,Metro Station,SG,10 Eu Tong Sen St.,1.2889035745208484,103.84715443499002,"{'type': 'Point', 'coordinates': (1.2889035745208484, 103.84715443499002)}"
 3,Chinatown MRT Interchange (NE4/DT19),Travelling Stations,Metro Station,SG,151 New Bridge Rd.,1.2849629351960765,103.84423877029343,"{'type': 'Point', 'coordinates': (1.2849629351960765, 103.84423877029343)}"
